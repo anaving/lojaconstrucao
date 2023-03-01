@@ -1,0 +1,46 @@
+.navbar {
+    background-color: #dc3545;
+}
+#cabecalho .nav .nav-link.active,
+a,
+.nav-produtos .nav-link {
+    background-color: #fff;
+    color: #dc3545;
+    text-decoration: none;
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover {
+    color: #fff;
+}
+.navbar-toggler {
+    background-color: #ebe4e5;
+}
+#sobre, #produtos {
+    background-color: #fae4e7;
+}
+.text-colored, span, h3 {
+    color: #dc3545;
+    font-family: 'Poppins', sans-serif;
+}
+
+#icon {
+    font-size: 100px;
+}
+.nav-produtos .nav-link.active,
+#fconosco button {
+    background-color: #dc3545;
+    color: #fff;
+}
+.nav-produtos .nav-link:hover {
+    color: #dc3545;
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+@media (max-width: 767px) {
+    
+}
